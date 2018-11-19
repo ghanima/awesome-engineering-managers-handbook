@@ -5,11 +5,43 @@ A curated list of great resources made for people who manage engineering teams. 
 
 ## Table of Contents
 
+1. [Leadership](#leadership)
+1. [Career](#career)
 1. [Articles](#articles)  
 1. [Newsletters](#newsletters)  
 1. [Books](#books)  
 1. [Tools](#tools)  
 1. [Videos](#videos)  
+
+
+## Leadership
+
+### Articles
+
+[Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771) from David Byttow  
+[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks  
+[Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round  
+[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen  
+[The Best Leaders Are Humble Leaders](https://hbr.org/2014/05/the-best-leaders-are-humble-leaders) from Harvard Business Review  
+
+### Books
+
+[Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen  
+[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh  
+[Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465) from Max Depree  
+[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott  
+[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
+[Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell  
+
+### Videos
+
+[Using Agile Techniques to Build a More Inclusive Team](https://www.youtube.com/watch?v=Atfxtk2Q90k) by Kevin Goldsmith at LeadDevLondon 2018  
+
+## Career
+
+### Videos
+
+[Decode the Career Path to VP of Engineering](https://www.youtube.com/watch?v=nELJ8pDpjYw)
 
 ## Articles
 
@@ -26,13 +58,7 @@ A curated list of great resources made for people who manage engineering teams. 
 
 [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot
 
-### Leadership
 
-[Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771) from David Byttow  
-[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks  
-[Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round  
-[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen  
-[The Best Leaders Are Humble Leaders](https://hbr.org/2014/05/the-best-leaders-are-humble-leaders) from Harvard Business Review  
 
 ### 1:1s
 
@@ -158,15 +184,6 @@ A curated list of great resources made for people who manage engineering teams. 
 [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) by Eliyahu M. Goldratt and Jeff Cox  
 [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/dp/032182203X) by Mickey W. Mantle and Ron Lichty  
 
-### Leadership
-
-[Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen  
-[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh  
-[Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465) from Max Depree  
-[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott  
-[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
-[Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell  
-
 ### Change Management
 [Change or Die: The Three Keys to Change at Work and in Life](https://www.amazon.com/Change-Die-Three-Keys-Work/dp/B000MV8X3I/) by Alan Deutschman  
 [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/) by Dan Heath, Chip Heath, Charles Kahlenberg  
@@ -212,10 +229,5 @@ A curated list of great resources made for people who manage engineering teams. 
 **[⬆ back to top](#table-of-contents)**
 
 ## Videos
-
-### Leadership
-
-[Using Agile Techniques to Build a More Inclusive Team](https://www.youtube.com/watch?v=Atfxtk2Q90k) by Kevin Goldsmith at LeadDevLondon 2018  
-[Decode the Career Path to VP of Engineering](https://www.youtube.com/watch?v=nELJ8pDpjYw)
 
 **[⬆ back to top](#table-of-contents)**
