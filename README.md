@@ -7,7 +7,7 @@ A curated list of great resources made for people who manage engineering teams. 
 
 1. [Leadership](#leadership)
 1. [Career](#career)
-1. [1:1s](#1:1s)
+1. [1:1s](#11s)
 1. [Articles](#articles)  
 1. [Newsletters](#newsletters)  
 1. [Books](#books)  
